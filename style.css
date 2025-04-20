@@ -1,9 +1,19 @@
+@keyframes Scaleup {
+    animation {
+        
+    }
+}
+
 body {
     background-color: aquamarine;
     font-family: "Noto Sans Thai", sans-serif;
     text-align: center;
     font-weight: bold;
     
+}
+button {
+    background-color: purple;
+    color: white;
 }
 .container {
     background-color: white;
@@ -18,3 +28,12 @@ body {
         height: auto;
     }
 }
+
+#kamkom {
+    display: none;
+}
+
+img {
+    display: none;
+}
+
